@@ -1,0 +1,12 @@
+name: PDGHCreativoArenas
+main: me.mchiappinam.pdghcreativoarenas.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+commands:
+   arenalobby:
+      description: Info.
+      usage: /<command>
+   arena:
+      description: Info.
+      usage: /<command>
